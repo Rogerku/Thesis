@@ -658,6 +658,20 @@ Then:
 
 **Author:** Roger Wan Bengini
 
-**License:** *Add a `LICENSE` file (for example MIT) and state it here.*
+**License:** No License
 
-**Citing:** *If this code supports a paper or thesis, add the citation here.*
+## References
+
+1. Zhao, X., Ma, Z., & Ma, R. (2024). [Analyzing narrative contagion through digital storytelling in social media conversations: An AI-powered computational approach](https://doi.org/10.1177/14614448241285445). *New Media & Society*.
+
+2. Min, S., & Park, J. (2019). [Modeling narrative structure and dynamics with networks, sentiment analysis, and topic modeling](https://doi.org/10.1371/journal.pone.0226025). *PLOS ONE, 14*(12).
+
+3. Gurung, M. I., Agarwal, N., & Al-Taweel, A. (2025). [Are Narratives Contagious? Modeling Narrative Diffusion Using Epidemiological Theories](https://doi.org/10.1007/978-3-031-78554-2_20). *ASONAM 2024, Lecture Notes in Computer Science*, 15214, 303–318.
+
+4. Muratov, A., et al. (2025). [FRaN-X: FRaming and Narratives-eXplorer](https://arxiv.org/abs/2507.06974). *arXiv preprint*.
+
+5. Antoniak, M., Mire, J., Sap, M., Ash, E., & Piper, A. (2024). [Where Do People Tell Stories Online? Story Detection Across Online Communities](https://doi.org/10.18653/v1/2024.acl-long.383). *Proceedings of ACL 2024*, 7104–7130.
+
+6. Nikolaidis, N., et al. (2025). [PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles](https://doi.org/10.18653/v1/2025.acl-long.1513). *Proceedings of ACL 2025*, 31323–31345.
+
+7. Wright, D., Arora, A., Borenstein, N., Yadav, S., Belongie, S., & Augenstein, I. (2024). [LLM Tropes: Revealing Fine-Grained Values and Opinions in Large Language Models](https://doi.org/10.18653/v1/2024.findings-emnlp.995). *Findings of EMNLP 2024*, 17085–17112.
